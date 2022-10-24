@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gacheruevans
 - 👀 I’m interested in Web 3.0 blockchain applications.
-- 🌱 I’m currently learning Solidy scripting
+- 🌱 I’m currently learning Solidity scripting
 - 💞️ I’m looking to collaborate on Web 3.0 blockchain applications.
 - 📫 How to reach me gacheruevans0@gmail.com
 
