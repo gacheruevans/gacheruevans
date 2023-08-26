@@ -1,6 +1,7 @@
 Hi, I’m Gacheru Evans, a Senior Software Engineer, Nice to meet you 👋
 - I'm interested in learning new techologies, contributing and collaborating.
 - I’m always eager to learn, share, review amazing tech stacks.
+- My current interest is in developing WEB 3.0 smart contracts.
 - How to reach me evans.gacheru.munene@gmail.com
 
 <!---
