@@ -1,7 +1,7 @@
 Hi, I’m Gacheru Evans, a Senior Software Engineer, Nice to meet you 👋
 - Interested in learning new techologies, contributing and collaborating.
-- Currently working on my web3 developer skills.
-- Always eager to learn, share, review amazing tech stacks.
+- Currently working personal web3 projects.
+- Eager to learn, share, review amazing tech stacks.
 - Open to Mentor.
 - How to reach me evans.gacheru.munene@gmail.com
 
