@@ -3,7 +3,7 @@ Hi, I’m Gacheru Evans, a Senior Software Engineer, Nice to meet you 👋.
 - Currently working personal web3 projects & leveling up on high level system design.
 - Always eager to review amazing tech stacks and know how they work.
 - Open to Mentor.
-- How to reach me evans.gacheru.munene@gmail.com
+- How to reach me consult@evansgacherumunene.co.ke
 
 <!---
 gacheruevans/gacheruevans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
