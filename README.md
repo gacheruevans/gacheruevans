@@ -1,4 +1,4 @@
-Hi, I’m Gacheru Evans, a Senior Software Engineer, Nice to meet you 👋.
+Hi, I’m Gacheru Evans, a Senior Software Engineer, nice to meet you 👋.
 - Interested in learning new techologies, contributing and collaborating.
 - Currently working personal web3 projects & leveling up on high level system design.
 - Always eager to review amazing tech stacks and know how they work.
