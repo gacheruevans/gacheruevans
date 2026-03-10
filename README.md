@@ -1,5 +1,6 @@
 ## 💫 About Me:   
-Interested in learning new techologies, contributing and collaborating.<br>- Eager to review amazing tech stacks and know how they work.<br>- Open to Mentor- Book a session with me. https://adplist.org/mentors/evans-gacheru-munene<br>- How to reach me evans.gacheru.munene@gmail.com
+I run a sole proprietorship Creativez Ink that empowers African SME's and enterprises through building secure, scalable and high performance digital systems.
+I am also nterested in learning new techologies, contributing and collaborating.<br>- Eager to review amazing tech stacks and know how they work.<br>- Open to Mentor- Book a session with me. https://adplist.org/mentors/evans-gacheru-munene<br>- How to reach me evans.gacheru.munene@gmail.com
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gacheruevans) 
 
